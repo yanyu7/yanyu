@@ -1,0 +1,128 @@
+[
+  {
+    "code": "REPFT002519201603270002",
+    "plate": "HJ-001111",
+    "productionCode": "asd2222",
+    "repairOrderCode": "AN05001610",
+    "vin": "LVAV2MBB7DC021316",
+    "client": "娜娜",
+    "totalFee": 1000,
+    "manHourFee": 4000,
+    "materialFee": 5000,
+    "managementFee": 50,
+    "otherFee": 50,
+    "createTime": "2017-12-12",
+    "status": 3,
+    "rejectStatus": 5,
+    "repairType": 4,
+    "subShop": {
+      "name": "QWWE-211",
+      "code": 12321
+    },
+    "branch": {
+      "name": "北汽福田汽车股份有限公司北京配件销售分公司"
+    },
+    "brands": {
+      "id": 1,
+      "name": "奥铃"
+    },
+    "productLine": {
+      "id": 1,
+      "name": "奥铃捷运"
+    }
+},
+  {
+    "code": "REPFT002519201603270002",
+    "plate": "HJ-001111",
+    "productionCode": "asd2222",
+    "repairOrderCode": "AN05001610",
+    "vin": "LVAV2MBB7DC021316",
+    "client": "娜娜",
+    "totalFee": 1000,
+    "manHourFee": 4000,
+    "materialFee": 5000,
+    "managementFee": 50,
+    "otherFee": 50,
+    "createTime": "2017-12-12",
+    "status": 1,
+    "rejectStatus": 3,
+    "repairType": 2,
+    "subShop": {
+      "name": "QWWE-211",
+      "code": 12321
+    },
+    "branch": {
+      "name": "北汽福田汽车股份有限公司北京配件销售分公司"
+    },
+    "brands": {
+      "id": 2,
+      "name": "欧马可"
+    },
+    "productLine": {
+      "id": 4,
+      "name": "欧马可1系"
+    }
+  },
+  {
+    "code": "REPFT002519201603270002",
+    "plate": "HJ-001111",
+    "productionCode": "asd2222",
+    "repairOrderCode": "AN05001610",
+    "vin": "LVAV2MBB7DC021316",
+    "client": "娜娜",
+    "totalFee": 1000,
+    "manHourFee": 4000,
+    "materialFee": 5000,
+    "managementFee": 50,
+    "otherFee": 50,
+    "createTime": "2017-12-12",
+    "status": 2,
+    "rejectStatus": 4,
+    "repairType": 1,
+    "subShop": {
+      "name": "QWWE-211",
+      "code": 12321
+    },
+    "branch": {
+      "name": "北汽福田汽车股份有限公司北京配件销售分公司"
+    },
+    "brands": {
+      "id": 1,
+      "name": "奥铃"
+    },
+    "productLine": {
+      "id": 2,
+      "name": "奥铃TX"
+    }
+  },{
+  "code": "REPFT002519201603270002",
+  "plate": "HJ-001111",
+  "productionCode": "asd2222",
+  "repairOrderCode": "AN05001610",
+  "vin": "LVAV2MBB7DC021316",
+  "client": "娜娜",
+  "totalFee": 1000,
+  "manHourFee": 4000,
+  "materialFee": 5000,
+  "managementFee": 50,
+  "otherFee": 50,
+  "createTime": "2017-12-12",
+  "status": 99,
+  "rejectStatus": 3,
+  "repairType": 3,
+  "subShop": {
+    "name": "QWWE-211",
+    "code": 12321
+  },
+  "branch": {
+    "name": "北汽福田汽车股份有限公司北京配件销售分公司"
+  },
+  "brands": {
+    "id": 1,
+    "name": "奥铃"
+  },
+  "productLine": {
+    "id": 3,
+    "name": "奥铃CX"
+  }
+}]

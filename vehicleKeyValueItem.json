@@ -1,0 +1,29 @@
+{
+  "repairTarget": [
+    {
+      "key": 1,
+      "value": "整车"
+    },
+    {
+      "key": 2,
+      "value": "专项机"
+    }
+  ],
+  "productType": [{
+    "key": 1,
+    "value": "运输车"
+  }],
+  "productFactory": [{
+    "key": 1,
+    "value": "北汽福田汽车股份有限公司南海汽车厂"
+  }],
+  "vehicleSeries": [
+    {
+      "key": 1,
+      "value": "已售出"
+    },
+    {
+      "key": 2,
+      "value": "未售出"
+    }]
+}
